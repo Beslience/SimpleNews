@@ -14,9 +14,9 @@ $config = array(
         'compile_dir'=>'data/template_c'
     ),
     'dbconfig'=>array(
-        'dbhost'=>'119.23.33.178',
+        'dbhost'=>'localhost',
         'dbuser'=>'root',
-        'dbpsw'=>'q877804730',
+        'dbpsw'=>'',
         'dbname'=>'newsreport',
         'dbcharset'=>'utf8'
     )
